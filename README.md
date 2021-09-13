@@ -8,6 +8,8 @@ KolotushinTechnologies/KolotushinTechnologies is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 
+#### За всеми примерами работ Figma писать в Telegram
+
 ### Примеры работ
 
 > #### Агрегатор Юридических Услуг / Многостраничник(SPA) / Командная работа
