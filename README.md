@@ -9,15 +9,21 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Примеры работ
+>#### Агрегатор Юридических Услуг / Многостраничник(SPA) / Командная работа    
+>Технологии: React, Scss, БЭМ, styled-components, react-redux           
+>Роль: Разработка всего API, Верстка, Немного Фронта, Стилизация, Дизайн, Разработка ТЗ, Участие В Разработке Алгоритма Работы Сайта   
+>https://github.com/KolotushinTechnologies/Legal-Service-Aggregator  
+>
+>
 >#### Объявления о продаже машин / Многостраничник / Командная работа    
->Технологии: nextjs, scss, БЭМ, styled-components, react-redux           
->Роль: верстка, немного фронта, стилизация, дизайн, разработка тз, участие в разработке алгоритма работы сайта   
+>Технологии: Nextjs, Scss, БЭМ, styled-components, react-redux           
+>Роль: Верстка, Немного Фронта, Стилизация, Дизайн, Разработка ТЗ, Участие В Разработке Алгоритма Работы Сайта   
 >[сайт](https://hitigo.ru/) – https://hitigo.ru/       
 >
 >
 >#### Редизайн / обновление верстки и функционала у интернет магазина (текущий сайт: https://elendan.ru/)    
->Технологии: верстка, БЭМ, scss, gulp, js     
->Была произведена новая верстка по дизайну в figm'е   
+>Технологии: Встка, БЭМ, Sss, gulp, JavaScript
+>Была произведена новая верстка по дизайну в Figm'е   
 >[сайт обновленный дизайн](https://webdiller.github.io/lighthouse-elen/index.html) – https://webdiller.github.io/lighthouse-elen/index.html  
 >[проект](https://github.com/webdiller/lighthouse-elen) – https://github.com/webdiller/lighthouse-elen   
 >
